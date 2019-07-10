@@ -16,7 +16,7 @@
 ## Основные зависимости
 
 * pipenv
-* asyсnio
+* asynсio
 * aiohttp
 * aiohttp-jinja2
 * python 3.6 / 3.7 (тестировалось на Python 3.7)
